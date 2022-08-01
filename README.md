@@ -13,8 +13,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [github repository](https://github.com/nwakego98/QR-code-component.git)
-- Live Site URL: [Netlify](https://stupendous-basbousa-3b054e.netlify.app/)
+- Solution URL:https://github.com/nwakego98/QR-code-component.git)
+- Live Site URL: (https://stupendous-basbousa-3b054e.netlify.app/)
 
 ## My process
 
@@ -38,9 +38,9 @@ Majorly on css
 
 ## Author
 
-- Website - [Add your name here](https://app.netlify.com/teams/nwakego98)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/nwakego98)
-- Twitter - [@yourusername](https://www.twitter.com/GlowRee17?t=wvddWNyWznpHL13CvpRMyg&s=08)
+- Website -(https://app.netlify.com/teams/nwakego98)
+- Frontend Mentor - (https://www.frontendmentor.io/profile/nwakego98)
+- Twitter - (https://www.twitter.com/GlowRee17?t=wvddWNyWznpHL13CvpRMyg&s=08)
 
 
 
